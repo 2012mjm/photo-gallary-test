@@ -1,0 +1,16 @@
+.photo {
+	margin-top: 1.5rem;
+}
+.photo .card-body {
+	padding: 0.8rem;
+}
+.photo .card-body .title {
+	white-space: nowrap;
+	width: 100%;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	font-size: 0.8rem;
+}
+.photo .card-body .button-details {
+	font-size: 0.8rem;
+}
